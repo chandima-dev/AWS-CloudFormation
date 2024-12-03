@@ -1,6 +1,4 @@
-Here's a sample **README.md** file for your GitHub repository, describing the steps to deploy the Laravel application on an EC2 instance with an RDS database using the provided CloudFormation template.
 
----
 
 # Laravel Application Deployment using CloudFormation
 
